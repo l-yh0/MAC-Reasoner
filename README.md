@@ -93,3 +93,29 @@ results/{dataset}-{model_name}.json
 ```
 
 If the model name contains `/`, it will be automatically replaced with `_`.
+
+## Citation
+
+If you find this helpful, please cite our paper:
+
+```bibtex
+@inproceedings{lin-etal-2026-mac,
+    title = "{MAC}-Reasoner: A Multi-Agent Collaborative Framework for Enhancing Logical Reasoning in Large Language Models",
+    author = "Lin, Yehua  and
+      Zheng, Liping  and
+      Chen, Yin",
+    editor = "Liakata, Maria  and
+      Moreira, Viviane P.  and
+      Zhang, Jiajun  and
+      Jurgens, David",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {ACL} 2026",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.findings-acl.233/",
+    doi = "10.18653/v1/2026.findings-acl.233",
+    pages = "4739--4762",
+    ISBN = "979-8-89176-395-1"
+}
+```
